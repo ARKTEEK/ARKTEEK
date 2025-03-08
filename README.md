@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello there
 
-<!--
-**ARKTEEK/ARKTEEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Full-Stack Developer** with experience in Java, TypeScript, CSS, HTML, and frameworks like **React** and **Spring Boot**.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, TypeScript, Rust, HTML, CSS
+- **Frameworks & Libraries:** React, Spring Boot
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL, SQL, SQLite
+- **Other Tools:** Docker
+
+### 🌱 Currently Learning:
+- **Rust** programming language
+- 3rd year of **Computer Science** in college
