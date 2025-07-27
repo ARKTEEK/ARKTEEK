@@ -4,7 +4,6 @@
 
 My name is **Mindaugas**, and I'm a **Full-Stack Developer** from **Lithuania**.  
 I have experience using **Java**, **TypeScript**, **.NET**, and frameworks like **React**, **Svelte**, and **Spring Boot**.
-<br><br><br>
 
 ## Technologies & Tools
 
@@ -19,3 +18,6 @@ Git · GitHub
 
 **Databases**  
 MySQL · SQLite · PostgreSQL
+
+**Other Tools**  
+Docker · Postman
