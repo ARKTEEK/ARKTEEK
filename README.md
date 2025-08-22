@@ -16,7 +16,7 @@ React · Svelte · Spring Boot · Tailwind CSS
 Git · GitHub
 
 **Databases**  
-MySQL · SQLite · PostgreSQL
+MySQL · SQLite
 
 **Other Tools**  
 Docker · Postman
