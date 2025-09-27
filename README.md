@@ -7,7 +7,7 @@ I have experience using **Java**, **TypeScript**, **.NET**, and frameworks like 
 ## Technologies & Tools
 
 **Languages**  
-Java · TypeScript · JavaScript · .NET · HTML · CSS
+Java · TypeScript · .NET
 
 **Frameworks & Libraries**  
 React · Svelte · Spring Boot · Tailwind CSS
